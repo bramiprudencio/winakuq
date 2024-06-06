@@ -1,0 +1,19 @@
+﻿  Building 'winakuq' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Debug\winakuq.inf
+  Stamping [Version] section with DriverVer=06/05/2024,20.58.57.524
+  winakuq.vcxproj -> C:\Users\brami\Desktop\winakuq\x64\Debug\winakuq.sys
+  Driver is 'Universal'.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\brami\Desktop\winakuq\x64\Debug\winakuq\winakuq.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\brami\Desktop\winakuq\x64\Debug\winakuq\winakuq.cat
+  
